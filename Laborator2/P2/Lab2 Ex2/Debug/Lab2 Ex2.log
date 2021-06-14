@@ -1,0 +1,16 @@
+﻿  GlobalFunctions.cpp
+  main.cpp
+F:\Visual studio projects\Lab2 Ex2\main.cpp(14,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(15,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(16,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(17,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(18,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(19,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(20,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(20,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(20,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(21,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(21,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab2 Ex2\main.cpp(21,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Lab2 Ex2.vcxproj -> F:\Visual studio projects\Lab2 Ex2\Debug\Lab2 Ex2.exe

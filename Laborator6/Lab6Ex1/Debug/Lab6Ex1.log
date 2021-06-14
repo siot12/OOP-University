@@ -1,0 +1,4 @@
+﻿  Circuit.cpp
+F:\Visual studio projects\Lab6Ex1\Circuit.cpp(144,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Visual studio projects\Lab6Ex1\Circuit.cpp(146,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab6Ex1.vcxproj -> F:\Visual studio projects\Lab6Ex1\Debug\Lab6Ex1.exe

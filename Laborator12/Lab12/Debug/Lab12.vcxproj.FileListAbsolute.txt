@@ -1,0 +1,2 @@
+F:\Visual studio projects\Lab12\Debug\Lab12.exe
+F:\Visual studio projects\Lab12\Debug\Lab12.pdb

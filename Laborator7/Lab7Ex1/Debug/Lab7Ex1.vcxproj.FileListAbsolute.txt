@@ -1,0 +1,2 @@
+F:\Visual studio projects\Lab7Ex1\Debug\Lab7Ex1.exe
+F:\Visual studio projects\Lab7Ex1\Debug\Lab7Ex1.pdb

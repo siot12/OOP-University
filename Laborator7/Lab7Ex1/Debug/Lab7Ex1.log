@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\Visual studio projects\Lab7Ex1\main.cpp(7,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual studio projects\Lab7Ex1\main.cpp(12,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual studio projects\Lab7Ex1\main.cpp(17,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\Visual studio projects\Lab7Ex1\main.cpp(18,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lab7Ex1.vcxproj -> F:\Visual studio projects\Lab7Ex1\Debug\Lab7Ex1.exe

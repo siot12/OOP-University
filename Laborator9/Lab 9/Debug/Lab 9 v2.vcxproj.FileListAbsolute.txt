@@ -1,0 +1,2 @@
+F:\Visual studio projects\Lab 9 v2\Debug\Lab 9 v2.exe
+F:\Visual studio projects\Lab 9 v2\Debug\Lab 9 v2.pdb

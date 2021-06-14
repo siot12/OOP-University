@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Visual studio projects\Lab7Ex2\main.cpp(83): warning C4715: 'Vector<int>::firstIndexOf': not all control paths return a value
+  Lab7Ex2.vcxproj -> F:\Visual studio projects\Lab7Ex2\Debug\Lab7Ex2.exe

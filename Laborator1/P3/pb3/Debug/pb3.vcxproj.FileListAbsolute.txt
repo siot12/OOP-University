@@ -1,0 +1,2 @@
+F:\Visual studio projects\pb3\Debug\pb3.exe
+F:\Visual studio projects\pb3\Debug\pb3.pdb

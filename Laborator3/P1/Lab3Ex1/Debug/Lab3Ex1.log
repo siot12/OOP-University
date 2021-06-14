@@ -1,0 +1,6 @@
+﻿  Math.cpp
+F:\Visual studio projects\Lab3Ex1\Math.cpp(20,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual studio projects\Lab3Ex1\Math.cpp(25,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual studio projects\Lab3Ex1\Math.cpp(40,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual studio projects\Lab3Ex1\Math.cpp(45,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab3Ex1.vcxproj -> F:\Visual studio projects\Lab3Ex1\Debug\Lab3Ex1.exe
